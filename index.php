@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="The Hello World program, in PHP" />
-  <meta name="keywords" content="mths, ics2o" />
-  <meta name="author" content="Mr. Coxall" />
+  <meta name="keywords" content="mths, icd2o" />
+  <meta name="author" content="Clara" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./css/style.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
